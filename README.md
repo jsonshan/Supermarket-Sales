@@ -19,8 +19,9 @@ This dataset was taken from kaggle: https://www.kaggle.com/datasets/aungpyaeap/s
 In the initial data preparation phase, we performed the following tasks:
 1. Data loading and inspection
 2. Handling missing values
-3. Removing Duplicates
-4. Formatting and cleaning
+3. Checks for misspellings/incorrectly inputted data
+4. Removing Duplicates
+5. Formatting and cleaning
 
 
 ### Exploratory Data Analysis
